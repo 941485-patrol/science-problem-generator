@@ -1,0 +1,6 @@
+{
+  "/api/science-problem/route": "app/api/science-problem/route.js",
+  "/api/science-problem/submit/route": "app/api/science-problem/submit/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,10 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/science-problem/route.js")
+R.c("server/chunks/node_modules_@supabase_node-fetch_lib_index_d6dc7176.js")
+R.c("server/chunks/node_modules_next_66ab5bd0._.js")
+R.c("server/chunks/node_modules_tr46_3e4df63f._.js")
+R.c("server/chunks/node_modules_@supabase_auth-js_dist_module_02e1b12e._.js")
+R.c("server/chunks/node_modules_74e08a0a._.js")
+R.c("server/chunks/[root-of-the-server]__9bb8c12d._.js")
+R.m("[project]/.next-internal/server/app/api/science-problem/route/actions.js [app-rsc] (server actions loader, ecmascript)")
+R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/science-problem/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/science-problem/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
